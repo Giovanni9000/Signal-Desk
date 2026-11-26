@@ -79,7 +79,7 @@ export function Desk() {
             <p className="text-sm font-semibold tracking-wide text-accent">Signal Desk</p>
             <h1 className="font-display text-3xl font-medium leading-tight">Review the packet. You press submit.</h1>
             <p className="mt-1 max-w-xl text-muted">
-              Giovanni Boni · open roles for this CV · checked 18 Nov 2026 · nothing is sent from this app.
+              Giovanni Boni · open roles for this CV · checked 26 Nov 2026 · nothing is sent from this app.
             </p>
           </div>
           <button type="button" onClick={() => arm(0)} className="inline-flex min-h-11 items-center gap-2 rounded-full bg-accent px-4 py-2 font-semibold text-accent-ink">
